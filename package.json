@@ -1,0 +1,22 @@
+{
+  "name": "morerunes.com",
+  "version": "1.0.0",
+  "description": "testing out stuff",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/morerunes/morerunes-webpack-stuff.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Aaron Echols <morerunes@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/morerunes/morerunes-webpack-stuff/issues"
+  },
+  "homepage": "https://github.com/morerunes/morerunes-webpack-stuff#readme"
+}
